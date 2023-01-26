@@ -11,9 +11,10 @@
   border-radius: 50%;
 }
 #about{
+  display: flex;
+  align-content: center;
   background-color: #85586F;
   height: 50vh;
-  padding-top: 10vh;
   color: #F8EDE3;
 }
 @media screen and (max-width: 500px){
