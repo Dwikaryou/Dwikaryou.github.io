@@ -10,12 +10,15 @@
   margin: 0 auto;
   border-radius: 50%;
 }
+nav, #about{
+  background-color: #ADC2A9;
+
+}
 #about{
   display: flex;
   align-content: center;
-  background-color: #85586F;
   height: 50vh;
-  color: #F8EDE3;
+  color: #FFFFE8 ;
 }
 @media screen and (max-width: 500px){
   #about{
@@ -40,8 +43,8 @@
 [transition-style="in:diamond:center"] {
   animation: 1.5s cubic-bezier(.25, 1, .30, 1) diamond-in-center both;
 }
-body, nav{
-  background-color: #EBEAEA;
+body{
+  background-color: #FEF5ED;
 }
 
 .center{
