@@ -16,10 +16,9 @@
   padding-top: 10vh;
   color: #F8EDE3;
 }
-@media screen and (max-width: 600px){
+@media screen and (max-width: 500px){
   #about{
     height: 60vh;
-    padding-top: 10vh;
   }
   
 }
