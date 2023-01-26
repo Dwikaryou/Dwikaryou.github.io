@@ -12,9 +12,16 @@
 }
 #about{
   background-color: #85586F;
-  height: 40vh;
+  height: 50vh;
   padding-top: 10vh;
   color: #F8EDE3;
+}
+@media screen and (max-width: 600px){
+  #about{
+    height: 60vh;
+    padding-top: 10vh;
+  }
+  
 }
 
 .purple{
