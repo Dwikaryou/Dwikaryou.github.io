@@ -84,7 +84,7 @@ body{
 }
 .thumbnail .img {
   display: block;
-  width: 100%;
+  width: 120%;
   overflow: hidden;
   height: 180px;
   margin: 0 0 20px;
